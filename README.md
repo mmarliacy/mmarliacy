@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Mélanie Marliacy  
+# 👋 Bonjour, je m'appelle Mélanie !  
 ### 💚 Développeuse Android | Passionnée par Kotlin & Jetpack Compose  
 
 Bienvenue sur mon GitHub !  
